@@ -2,6 +2,9 @@
 
 Barcha mavjud va yangi reference rasmlar, video kliplar, audio, loyiha fayllari va eksportlar shu mavzu bilan bog‘liq holda kataloglanadi.
 
+## Visual references
+- [references.md — 6 ta tashqi vizual namuna, rasm va manba havolalari](references.md)
+
 ## Tavsiya etilgan papka tuzilishi
 - `images/references/` — aktyor reference'lari va vizual yo‘nalish.
 - `images/generated/` — generatsiya qilingan kadrlar va key art.
@@ -14,7 +17,7 @@ Barcha mavjud va yangi reference rasmlar, video kliplar, audio, loyiha fayllari 
 - `project-files/` — montaj loyihasi va motion design fayllari.
 
 ## Inventory
-Hozircha repository tekshiruvida mavjud media fayllar aniqlanmagan. Yangi fayl qo‘shilganda quyidagilarni yozing:
+Hozircha repository ichida alohida image/video binary fayllar aniqlanmagan. Reference rasmlar tashqi manbalarga havola qilingan. Yangi fayl qo‘shilganda quyidagilarni yozing:
 - Filename:
 - Asset turi:
 - Shot / sahna:
